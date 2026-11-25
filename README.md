@@ -442,8 +442,9 @@ print("Peak memory:", peak, "bytes")
 tracemalloc.stop()
 ```
 
-## Sample Output
-<img width="293" height="44" alt="image" src="https://github.com/user-attachments/assets/b224d48a-2a22-4a9b-be7a-86164e3d3479" />
+### Sample Output
+
+![Program 4 Output](screenshots/program-04.png)
 
 
 [Back to Index](#index)
@@ -506,8 +507,9 @@ exponential(n)
 
 ```
 
-## Sample Output
-<img width="255" height="110" alt="image" src="https://github.com/user-attachments/assets/5064364f-6706-4ba0-bcf1-9b05acfa7905" />
+### Sample Output
+
+![Program 5 Output](screenshots/program-05.png)
 
 
 [Back to Index](#index)
@@ -536,8 +538,9 @@ else:
     print("Element not found.")
 ```
 
-## Sample Output
-<img width="448" height="68" alt="image" src="https://github.com/user-attachments/assets/ddaf9442-0294-4c59-850c-198bccc1b3ab" />
+### Sample Output
+
+![Program 6 Output](screenshots/program-06.png)
 
 
 [Back to Index](#index)
@@ -575,8 +578,9 @@ else:
     print("Element not found.")
 ```
 
-## Sample Output
-<img width="472" height="71" alt="image" src="https://github.com/user-attachments/assets/e8700bb2-b2ae-4978-a59c-f0ad1f80ef9c" />
+### Sample Output
+
+![Program 7 Output](screenshots/program-07.png)
 
 
 [Back to Index](#index)
@@ -604,8 +608,9 @@ for num in arr:
 print("Largest element:", largest)
 ```
 
-## Sample Output
-<img width="441" height="47" alt="image" src="https://github.com/user-attachments/assets/08693daa-bd5a-4040-9ad3-eb783ccf9102" />
+### Sample Output
+
+![Program 8 Output](screenshots/program-08.png)
 
 
 [Back to Index](#index)
@@ -634,8 +639,9 @@ for num in arr:
 print("Smallest element:", smallest)
 ```
 
-## Sample Output
-<img width="507" height="45" alt="image" src="https://github.com/user-attachments/assets/aac82278-3b1e-48c9-974a-0cd5e2902e03" />
+### Sample Output
+
+![Program 9 Output](screenshots/program-09.png)
 
 
 [Back to Index](#index)
@@ -673,8 +679,9 @@ print("Ascending order:", asc)
 print("Descending order:", desc)
 ```
 
-## Sample Output
-<img width="516" height="71" alt="image" src="https://github.com/user-attachments/assets/69132e02-7142-4df2-a632-a46a6919de94" />
+### Sample Output
+
+![Program 10 Output](screenshots/program-10.png)
 
 
 [Back to Index](#index)
@@ -709,8 +716,9 @@ arr = list(map(int, input("Enter array elements: ").split()))
 print("Sorted array:", quick_sort(arr))
 ```
 
-## Sample Output
-<img width="515" height="47" alt="image" src="https://github.com/user-attachments/assets/e8ce74d5-f890-42a8-b2a1-e6235d82bffe" />
+### Sample Output
+
+![Program 11 Output](screenshots/program-11.png)
 
 
 [Back to Index](#index)
@@ -756,8 +764,9 @@ arr = list(map(int, input("Enter array elements: ").split()))
 print("Sorted array:", merge_sort(arr))
 ```
 
-## Sample Output
-<img width="447" height="45" alt="image" src="https://github.com/user-attachments/assets/c55aeb22-f237-428c-b330-6313bd85aa73" />
+### Sample Output
+
+![Program 12 Output](screenshots/program-12.png)
 
 
 [Back to Index](#index)
@@ -790,8 +799,9 @@ for i in range(1, len(arr)):
 print("Sorted array:", arr)
 ```
 
-## Sample Output
-<img width="452" height="55" alt="image" src="https://github.com/user-attachments/assets/f05658f8-2cf2-460a-a85b-e603c2f948ad" />
+### Sample Output
+
+![Program 13 Output](screenshots/program-13.png)
 
 
 [Back to Index](#index)
@@ -838,8 +848,9 @@ arr = list(map(float, input("Enter numbers: ").split()))
 print("Sorted array:", bucket_sort(arr))
 ```
 
-## Sample Output
-<img width="632" height="50" alt="image" src="https://github.com/user-attachments/assets/bfee1fb8-8196-492a-8e71-3dff1257f6be" />
+### Sample Output
+
+![Program 14 Output](screenshots/program-14.png)
 
 
 [Back to Index](#index)
@@ -865,8 +876,9 @@ arr.append(element)
 print("Updated array:", arr)
 ```
 
-## Sample Output
-<img width="465" height="66" alt="image" src="https://github.com/user-attachments/assets/4be2291f-f5fa-451d-9bdf-e1914a41c147" />
+### Sample Output
+
+![Program 15 Output](screenshots/program-15.png)
 
 
 [Back to Index](#index)
@@ -894,8 +906,9 @@ else:
     print("Invalid position.")
 ```
 
-## Sample Output
-<img width="442" height="80" alt="image" src="https://github.com/user-attachments/assets/d3695223-3015-488e-9e4a-0657845a0cfd" />
+### Sample Output
+
+![Program 16 Output](screenshots/program-16.png)
 
 [Back to Index](#index)
 
@@ -923,8 +936,9 @@ else:
     print("Invalid position.")
 ```
 
-## Sample Output
-<img width="512" height="85" alt="image" src="https://github.com/user-attachments/assets/5a1cee2c-be6d-4938-b28b-a89f4c6fa621" />
+### Sample Output
+
+![Program 17 Output](screenshots/program-17.png)
 
 [Back to Index](#index)
 
@@ -951,8 +965,9 @@ else:
     print("Element not found.")
 ```
 
-## Sample Output
-<img width="396" height="66" alt="image" src="https://github.com/user-attachments/assets/e33ac358-74cb-4ea4-a1b9-f7fec3e44bb3" />
+### Sample Output
+
+![Program 18 Output](screenshots/program-18.png)
 
 [Back to Index](#index)
 
@@ -982,9 +997,9 @@ else:
     print("Factorial:", factorial(n))
 ```
 
-## Sample Output
+### Sample Output
 
-<img width="777" height="48" alt="image" src="https://github.com/user-attachments/assets/497a622b-da9d-4ab7-b567-1f7a79251f33" />
+![Program 19 Output](screenshots/program-19.png)
 
 
 [Back to Index](#index)
@@ -1015,8 +1030,9 @@ else:
     print("Sum:", sum_numbers(n))
 ```
 
-## Sample Output
-<img width="326" height="55" alt="image" src="https://github.com/user-attachments/assets/9524737c-c2ff-4382-a429-9b8362cd49f6" />
+### Sample Output
+
+![Program 20 Output](screenshots/program-20.png)
 
 
 [Back to Index](#index)
@@ -1049,8 +1065,9 @@ else:
     print()
 ```
 
-## Sample Output
-<img width="332" height="57" alt="image" src="https://github.com/user-attachments/assets/c42181da-62ad-437b-8cb9-cd65640f1ffe" />
+### Sample Output
+
+![Program 21 Output](screenshots/program-21.png)
 
 
 [Back to Index](#index)
@@ -1097,9 +1114,9 @@ print("Graph representation:")
 g.display()
 ```
 
-## Sample Output
+### Sample Output
 
-<img width="242" height="110" alt="image" src="https://github.com/user-attachments/assets/8ef1c600-4d8d-4e3a-8145-b3d193bba260" />
+![Program 22 Output](screenshots/program-22.png)
 
 
 
@@ -1132,9 +1149,9 @@ for vertex, edges in graph.items():
     print(vertex, "->", edges)
 ```
 
-## Sample Output
+### Sample Output
 
-<img width="180" height="115" alt="image" src="https://github.com/user-attachments/assets/cb9ced25-be8a-44e4-8bc3-8165b87d9863" />
+![Program 23 Output](screenshots/program-23.png)
 
 
 
@@ -1177,8 +1194,9 @@ for vertex, edges in graph.items():
     print(vertex, ":", edges)
 ```
 
-## Sample Output
-<img width="320" height="312" alt="image" src="https://github.com/user-attachments/assets/fab62215-8172-4433-9965-408d3f76497d" />
+### Sample Output
+
+![Program 24 Output](screenshots/program-24.png)
 
 
 [Back to Index](#index)
@@ -1226,8 +1244,9 @@ bfs(graph, 'A')
 print()
 ```
 
-## Sample Output
-<img width="167" height="50" alt="image" src="https://github.com/user-attachments/assets/83e61667-d058-4f9e-af9a-b20457248a08" />
+### Sample Output
+
+![Program 25 Output](screenshots/program-25.png)
 
 
 
@@ -1269,8 +1288,9 @@ dfs(graph, 'A', set())
 print()
 ```
 
-## Sample Output
-<img width="177" height="46" alt="image" src="https://github.com/user-attachments/assets/834887d4-31ea-4335-a898-bcc1c929647b" />
+### Sample Output
+
+![Program 26 Output](screenshots/program-26.png)
 
 
 
@@ -1329,8 +1349,9 @@ edges = [
 bellman_ford(vertices, edges, 'A')
 ```
 
-## Sample Output
-<img width="297" height="107" alt="image" src="https://github.com/user-attachments/assets/3ce22c03-8a33-4487-b989-d5b38d0d5811" />
+### Sample Output
+
+![Program 27 Output](screenshots/program-27.png)
 
 
 
@@ -1384,8 +1405,9 @@ graph = {
 dijkstra(graph, 'A')
 ```
 
-## Sample Output
-<img width="306" height="111" alt="image" src="https://github.com/user-attachments/assets/d363bd1f-77f4-44f9-8e51-59ea5f51855e" />
+### Sample Output
+
+![Program 28 Output](screenshots/program-28.png)
 
 
 
@@ -1436,7 +1458,9 @@ def analyze_complexity():
 analyze_complexity()
 ```
 
-<img width="503" height="375" alt="image" src="https://github.com/user-attachments/assets/db727151-b996-4e10-9fa1-ab7539498fcd" />
+### Sample Output
+
+![Program 29 Output](screenshots/program-29.png)
 
 
 [Back to Index](#index)
@@ -1524,7 +1548,9 @@ print("Dijkstra's Algorithm:", dijkstra(V, edges, source))
 print("Bellman-Ford Algorithm:",
       bellman_ford(V, edges, source))
 ```
-<img width="466" height="50" alt="image" src="https://github.com/user-attachments/assets/4d05cfc1-9235-49b2-ac9c-725a23f8a025" />
+### Sample Output
+
+![Program 30 Output](screenshots/program-30.png)
 
 
 [Back to Index](#index)
@@ -1638,7 +1664,9 @@ for name, result in [
     print("Total MST weight:", total)
 ```
 
-<img width="705" height="155" alt="image" src="https://github.com/user-attachments/assets/0b1918d4-07fb-4282-981a-1ca624b8e38a" />
+### Sample Output
+
+![Program 31 Output](screenshots/program-31.png)
 
 [Back to Index](#index)
 
@@ -1705,7 +1733,9 @@ def prim_mst(graph, V):
 
 prim_mst(graph, V)
 ```
-<img width="372" height="141" alt="image" src="https://github.com/user-attachments/assets/8627a58f-9871-473d-a6ee-eeff0f9420d6" />
+### Sample Output
+
+![Program 32 Output](screenshots/program-32.png)
 
 [Back to Index](#index)
 
@@ -1787,7 +1817,9 @@ def kruskal_mst(V, edges):
 
 kruskal_mst(V, edges)
 ```
-<img width="367" height="136" alt="image" src="https://github.com/user-attachments/assets/7b5efe93-6407-4f58-b6c6-5eff61433e58" />
+### Sample Output
+
+![Program 33 Output](screenshots/program-33.png)
 
 [Back to Index](#index)
 
@@ -1857,7 +1889,9 @@ for u, v, weight in mst:
 
 print("Minimum Total Weight:", total_weight)
 ```
-<img width="330" height="132" alt="image" src="https://github.com/user-attachments/assets/e09c7106-851d-43da-b3ad-e268d982d581" />
+### Sample Output
+
+![Program 34 Output](screenshots/program-34.png)
 
 
 [Back to Index](#index)
@@ -1899,7 +1933,9 @@ print("Shortest Distance Matrix:")
 for row in dist:
     print(row)
 ```
-<img width="303" height="106" alt="image" src="https://github.com/user-attachments/assets/8abaf20d-7dc0-49dc-a44d-f775be3d1d67" />
+### Sample Output
+
+![Program 35 Output](screenshots/program-35.png)
 
 [Back to Index](#index)
 
@@ -1950,7 +1986,9 @@ for row in dist:
         for x in row
     ])
 ```
-<img width="515" height="235" alt="image" src="https://github.com/user-attachments/assets/08a198c0-c9f0-4452-81c7-b1b69cabb352" />
+### Sample Output
+
+![Program 36 Output](screenshots/program-36.png)
 
 
 [Back to Index](#index)
@@ -1999,7 +2037,9 @@ else:
     print("Minimum distance:", int(dist[source][destination]))
 ```
 
-<img width="522" height="187" alt="image" src="https://github.com/user-attachments/assets/ced379df-9d99-4ff9-bc15-dba37bfe59d2" />
+### Sample Output
+
+![Program 37 Output](screenshots/program-37.png)
 
 [Back to Index](#index)
 
@@ -2063,7 +2103,9 @@ plt.show()
 
 ```
 
-<img width="1683" height="922" alt="image" src="https://github.com/user-attachments/assets/06d80f35-e59d-48f6-b662-a7059c0056e8" />
+### Sample Output
+
+![Program 38 Output](screenshots/program-38.png)
 
 [Back to Index](#index)
 
@@ -2126,7 +2168,9 @@ greedy_knapsack(weights, profits, capacity)
 
 ```
 
-<img width="375" height="137" alt="image" src="https://github.com/user-attachments/assets/344aa4c0-e589-4914-b881-202c20efa509" />
+### Sample Output
+
+![Program 39 Output](screenshots/program-39.png)
 
 [Back to Index](#index)
 
@@ -2212,7 +2256,9 @@ fractional_knapsack(weights, profits, capacity)
 
 ```
 
-<img width="428" height="325" alt="image" src="https://github.com/user-attachments/assets/10346f1b-b752-40d5-b6dd-8ca728984012" />
+### Sample Output
+
+![Program 40 Output](screenshots/program-40.png)
 
 [Back to Index](#index)
 
