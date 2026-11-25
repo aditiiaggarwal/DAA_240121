@@ -338,9 +338,9 @@ while True:
         print("Invalid Choice")
 ```
 
-## Sample Output
+### Sample Output
 
-<img width="267" height="610" alt="image" src="https://github.com/user-attachments/assets/5c54336a-13ad-48ea-aedf-4ebdd6412f98" />
+![Program 1 Output](screenshots/program-01.png)
 
 
 
@@ -372,8 +372,9 @@ plt.grid(True)
 plt.show()
 ```
 
-## Sample Output
-<img width="650" height="568" alt="image" src="https://github.com/user-attachments/assets/80c5a819-ff38-4372-8506-7911571d1251" />
+### Sample Output
+
+![Program 2 Output](screenshots/program-02.png)
 
 
 [Back to Index](#index)
@@ -407,8 +408,9 @@ print("Execution time:", end - start, "seconds")
 
 ```
 
-## Sample Output
-<img width="404" height="48" alt="image" src="https://github.com/user-attachments/assets/f03c0542-f725-49ab-af38-e11fd8d84a90" />
+### Sample Output
+
+![Program 3 Output](screenshots/program-03.png)
 
 [Back to Index](#index)
 
